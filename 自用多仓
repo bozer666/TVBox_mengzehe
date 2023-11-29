@@ -1,17 +1,17 @@
 //=============多仓更新日期 2023/06/23=============
 
 //本多仓仓库在线链接：
-//https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
+//https://raw.githubusercontent.com/mengzehe/tvbox/main/自用多仓
 //https://raw.iqiq.io/mengzehe/tvbox/main/自用多仓
 
 
 {"storeHouse": 
 [ 
-{"sourceName":"自己专用单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓" }, 
-{"sourceName":"放学回家单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
+{"sourceName":"自己专用单仓","sourceUrl":"https://raw.githubusercontent.com/mengzehe/tvbox/main/自用单仓" }, 
+{"sourceName":"放学回家单仓","sourceUrl":"https://raw.githubusercontent.com/jigedos/CTTBOX/main/dcpro608.json" }, 
 {"sourceName":"云星在线单仓","sourceUrl":"https://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"业余奇奇单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
-{"sourceName":"业余日后单仓","sourceUrl":"https://ghproxy.com/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
+{"sourceName":"业余奇奇单仓","sourceUrl":"https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json"},
+{"sourceName":"业余日后单仓","sourceUrl":"https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"},
 {"sourceName":"日后精选单仓","sourceUrl":"http://rihou.cc:66/多仓/0.php"},
 //{"sourceName":"多多聚合多仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/fast.json"},
 {"sourceName":"多多优选单仓","sourceUrl":"https://jihulab.com/duomv/apps/-/raw/main/a.txt"},
